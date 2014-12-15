@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="72" height="18" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="pacman_spritesheet1" tilewidth="16" tileheight="16" spacing="2" margin="1">
+  <image source="pacman_spritesheet1.png" width="216" height="54"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="72" height="18">
+  <data encoding="base64" compression="zlib">
+   eJztlrkOgzAMht1LFUOrLp068v7vWJAayTU+iROK1F/yAEp8fDgmAACvya47tSd8K7uWWQPsVwfy3KKWP5+lxo9l+qzVKJimFnzmmLfJHok+a4VzwnYEnVE2nxIL+92aD5dT0UDWUGXywTF685HOjpRTEc6NY1TDRzvHPfmU2NL54XIqorlpdXDrtZxoPlIuvfhY9Xv4YH/cnggfbe8v8rnD8n52Cvr01OLZm8FHmync2fb2RyS+xScy71rw4WaK9H/eio80Z3rw4WqmMQufyPlZG5/jI63J5sP1aoRPVNZden6mzCnvWj6Rb8j16sXYY93vtFjWe4/PjP7xytMvVPR+F5nnWh4Ry+KzJpalM+jz25rtWNa/QDLa4xE+tbFais7FNT3PqXwziRuO9QaCaRjB
+  </data>
+ </layer>
+</map>
